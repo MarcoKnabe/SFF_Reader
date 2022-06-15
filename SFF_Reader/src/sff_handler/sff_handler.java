@@ -1,4 +1,4 @@
-package sff_handler;
+package SFF_Reader.src.sff_handler;
 
 import java.awt.*;
 import java.awt.image.*;

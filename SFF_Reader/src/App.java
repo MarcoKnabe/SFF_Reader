@@ -1,4 +1,6 @@
-import sff_handler.*;
+package SFF_Reader.src;
+
+import SFF_Reader.src.sff_handler.*;
 
 public class App {
 
